@@ -1,4 +1,7 @@
 # http://travis-ci.org/#!/graphite-project/graphite-web
+arch:
+  - amd64
+  - ppc64le
 dist: xenial
 language: python
 python: 2.7
